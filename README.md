@@ -1,6 +1,6 @@
 # NettyServer
 NettyHTTPServer
-Problem: To create a java netty server that accepts the json object.
+Problem: To create a java netty http server that accepts the json object.
 
 Procedure: I have installed the netty server in the debian development machine.
 
